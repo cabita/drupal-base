@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/custom/modulo_prueba"]
 	path = sites/all/modules/custom/modulo_prueba
 	url = https://github.com/cabita/modulo-prueba.git
+[submodule "sites/all/modules/custom/modulo_prueba2"]
+	path = sites/all/modules/custom/modulo_prueba2
+	url = https://github.com/cabita/modulo-prueba2.git
